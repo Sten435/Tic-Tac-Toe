@@ -1,0 +1,16 @@
+C:\Users\stanp\Desktop\TicTacTo\bin\Debug\net5.0\TicTacTo.exe
+C:\Users\stanp\Desktop\TicTacTo\bin\Debug\net5.0\TicTacTo.deps.json
+C:\Users\stanp\Desktop\TicTacTo\bin\Debug\net5.0\TicTacTo.runtimeconfig.json
+C:\Users\stanp\Desktop\TicTacTo\bin\Debug\net5.0\TicTacTo.runtimeconfig.dev.json
+C:\Users\stanp\Desktop\TicTacTo\bin\Debug\net5.0\TicTacTo.dll
+C:\Users\stanp\Desktop\TicTacTo\bin\Debug\net5.0\ref\TicTacTo.dll
+C:\Users\stanp\Desktop\TicTacTo\bin\Debug\net5.0\TicTacTo.pdb
+C:\Users\stanp\Desktop\TicTacTo\obj\Debug\net5.0\TicTacTo.csproj.AssemblyReference.cache
+C:\Users\stanp\Desktop\TicTacTo\obj\Debug\net5.0\TicTacTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stanp\Desktop\TicTacTo\obj\Debug\net5.0\TicTacTo.AssemblyInfoInputs.cache
+C:\Users\stanp\Desktop\TicTacTo\obj\Debug\net5.0\TicTacTo.AssemblyInfo.cs
+C:\Users\stanp\Desktop\TicTacTo\obj\Debug\net5.0\TicTacTo.csproj.CoreCompileInputs.cache
+C:\Users\stanp\Desktop\TicTacTo\obj\Debug\net5.0\TicTacTo.dll
+C:\Users\stanp\Desktop\TicTacTo\obj\Debug\net5.0\ref\TicTacTo.dll
+C:\Users\stanp\Desktop\TicTacTo\obj\Debug\net5.0\TicTacTo.pdb
+C:\Users\stanp\Desktop\TicTacTo\obj\Debug\net5.0\TicTacTo.genruntimeconfig.cache
